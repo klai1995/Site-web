@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7cc61be2-bf92-48ff-975b-b62e4fb43c37" name="Default Changelist" comment="header">
+      <change afterPath="$PROJECT_DIR$/.idea/Site-web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Siteweb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP  7" />
+  <component name="ProjectId" id="1jPjtpnul1OoSxMFhQPpVSInI4r" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\Siteweb\css" />
+      <recent name="C:\wamp64\www\Siteweb" />
+      <recent name="C:\wamp64\www\Siteweb\Images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7cc61be2-bf92-48ff-975b-b62e4fb43c37" name="Default Changelist" comment="" />
+      <created>1603712845221</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603712845221</updated>
+      <workItem from="1603712848948" duration="595000" />
+      <workItem from="1603713508687" duration="42720000" />
+      <workItem from="1604234209623" duration="26349000" />
+      <workItem from="1604267713637" duration="412000" />
+    </task>
+    <task id="LOCAL-00001" summary="header">
+      <created>1604267986008</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604267986008</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="header" />
+    <option name="LAST_COMMIT_MESSAGE" value="header" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2434" y="269" key="#CLI_Interpreters" timestamp="1603723368968">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state x="2434" y="269" key="#CLI_Interpreters/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1603723368968" />
+    <state x="2386" y="183" key="#Inspections" timestamp="1604242695414">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state x="2386" y="183" key="#Inspections/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604242695414" />
+    <state x="2352" y="163" width="816" height="729" key="#Intentions" timestamp="1604243003186">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state x="2352" y="163" width="816" height="729" key="#Intentions/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604243003186" />
+    <state x="2514" y="329" key="#Notifications" timestamp="1604268128195">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state x="2514" y="329" key="#Notifications/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604268128195" />
+    <state x="2440" y="67" key="#PHP" timestamp="1603720395129">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state x="475" y="55" key="#PHP/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1603716619200" />
+    <state x="2440" y="67" key="#PHP/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1603720395129" />
+    <state x="2214" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604267004120">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state x="2214" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604267004120" />
+    <state x="2537" y="215" key="FileChooserDialogImpl" timestamp="1604267190010">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state x="2537" y="215" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604267190010" />
+    <state x="2584" y="425" key="Github.CreateGistDialog" timestamp="1604266915508">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state x="2584" y="425" key="Github.CreateGistDialog/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604266915508" />
+    <state x="2638" y="403" key="Github.ShareDialog" timestamp="1604267172211">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state x="2638" y="403" key="Github.ShareDialog/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604267172211" />
+    <state x="2588" y="228" key="NewPhpClassDialog" timestamp="1603928000333">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state x="2588" y="228" key="NewPhpClassDialog/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1603928000333" />
+    <state x="2591" y="383" key="NewPhpFileDialog" timestamp="1603928013748">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state x="2591" y="383" key="NewPhpFileDialog/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1603928013748" />
+    <state x="2355" y="259" key="SettingsEditor" timestamp="1603723373691">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state x="2355" y="259" key="SettingsEditor/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1603723373691" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1603923561081">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1603923561081" />
+    <state x="2352" y="238" key="Vcs.Push.Dialog.v2" timestamp="1604268089210">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state x="2352" y="238" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604268089210" />
+    <state x="2577" y="419" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604267835450">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state x="2577" y="419" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604267835450" />
+    <state x="2366" y="230" key="run.anything.popup" timestamp="1604261714159">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state x="408" y="188" key="run.anything.popup/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1603714342130" />
+    <state x="2366" y="230" key="run.anything.popup/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604261714159" />
+    <state x="2423" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1604267094653">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state x="2423" y="217" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604267094653" />
+    <state x="2590" y="296" key="svn.repositoryBrowser" timestamp="1604267204428">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state x="2590" y="296" key="svn.repositoryBrowser/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604267204428" />
+  </component>
+</project>
